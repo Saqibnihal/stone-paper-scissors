@@ -5,6 +5,7 @@ let first = document.getElementById("first");
 let second = document.getElementById("second");
 let third = document.getElementById("third");
 
+
 // inserting images-------------------------------------------------------------------------
 let image1 = document.createElement("img");
 image1.src = "stone.jpg";
